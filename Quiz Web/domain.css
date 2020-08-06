@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("domain.jpg")fixed no-repeat;
+    background-size: cover;
+}
+.a{
+    padding-left: 40%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+.b{
+    padding-left: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.c{
+    padding-left: 40%;
+    padding-top: 1%;
+}
+.p{
+    padding-left: 37%;
+    padding-top: 10%;
+    color: white;
+}

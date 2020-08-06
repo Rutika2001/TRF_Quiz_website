@@ -1,0 +1,19 @@
+
+    .btn{font-size: 20px;}
+    .submit{font-size: 20px;}
+    .btn:hover
+    {
+        color: rgb(93, 168, 31);
+        background-color: rgb(33, 150, 18);
+        cursor:pointer;
+        
+    }
+    .submit:hover
+    {
+        color: rgb(93, 168, 31);
+        background-color: rgb(33, 150, 18);
+        cursor:pointer;
+    
+        
+    }
+
